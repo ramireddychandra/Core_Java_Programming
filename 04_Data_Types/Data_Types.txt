@@ -1,0 +1,11 @@
+								DataTypes :
+								
+	Integers			Floating        char(2)		Boolean
+	
+	Byte(1)				Float(4)		char(2)		True
+	short(2)			Double(8)					False
+	int(4)
+	long(8)
+	Float(4)
+	
+	
