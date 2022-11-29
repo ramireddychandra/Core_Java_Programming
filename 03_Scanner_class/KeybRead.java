@@ -31,6 +31,9 @@ class keybRead
 		
 		//hasNextInt()   	Boolean results, If has next elemet is int then True;
 		//hasNextFloat()  	Boolean results
+		//On CMD javap java.util.Scanner;
+		//List of methods will display.
+		
 		
 		c = a + b;
 		System.out.println("************************************** ");
