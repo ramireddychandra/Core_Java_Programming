@@ -1,0 +1,35 @@
+compiler vs Interpretor
+
+
+complier .
+
+it will transulate  a code to machine code once and store in .class file
+
+Interpretor:
+
+It will transulate and will not create the transulted code.
+you have to transulate every time.
+
+
+
+Compiler
+• Compiler will convert program into machine code if they are no error
+• Compilation from source code to machine code is done only once
+• As translation is done once that’s why compiler doesn't run codes
+• Even if there’s one error in the program , it will not compile the full code
+must be error free to transform into machine code.
+Interpreter
+• JavaScript is an interpreter based language
+• JS runs inside browser , it cannot run independently
+• It translate and runs /executes the code line by line
+• Translation is done again and again
+
+
+• Compiler is faster than interpreter
+• In interpreter if there is error in one line the code will still execute
+• Interpreter language is easy than compiler language
+
+
+Java is Hybrid ---(Complier and Interpreter).
+
+JVM  ---> Interpreter / JIT Complier(just in time).
