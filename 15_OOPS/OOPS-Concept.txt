@@ -1,0 +1,13 @@
+
+
+Abstraction:-
+	Means Hiding Interal details and Showing required Features.
+	
+Inheritance:- 
+	To improve the Object With Extra Features. Eg: Iphone-6 having Some features and Iphone6-pro has same Features and added some extra Features.
+	
+Encapsulation:-
+	Each and every thing is enclosed into one single body called Encapsulation.
+	
+Polymorphism
+
