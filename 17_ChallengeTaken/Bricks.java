@@ -18,7 +18,6 @@ public class Bricks
 			previousBricks=(previousBricks*(2/3f));
 			RemainingBricks=RemainingBricks-previousBricks;
 			count++;
-			//System.out.println(previousBricks);
 		}
 		System.out.println(count);
 	}
