@@ -11,3 +11,16 @@ Encapsulation:-
 	
 Polymorphism
 
+
+
+Generilzation ---->         Smartphones ---> IPHONE         ---> Interfaces
+										--->Samsung
+										--->LG
+										
+										
+										(ABSTRACT CLASSES)
+										
+										
+Specilization ---->         Iphone6 ---> IPHONE6-pro         ---> inheritances
+										
+										

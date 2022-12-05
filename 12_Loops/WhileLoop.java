@@ -3,6 +3,10 @@ public class LoopPractice {
 
     public static void main(String[] args) {
         
+		//While loop runs 0 or many times
+		 // Do while loop will do atleast one loop.
+		 
+		 
         //int i=1;//100
         /*while(i<100)
         {
