@@ -11,8 +11,8 @@ public class Bricks
 		float previousBricks = 245;
 		float RemainingBricks = 385;
 		int count = 1;
-		float ratio = 2/3f;
-		System.out.println(2/3);
+		float ratio = 2/3f;	   // Not Included in Code.
+		System.out.println(2/3);   // It Gives Zero Value ...
 		while(RemainingBricks>0)
 		{
 			previousBricks=(previousBricks*(2/3f));
