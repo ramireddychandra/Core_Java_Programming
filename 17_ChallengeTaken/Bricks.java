@@ -1,3 +1,8 @@
+// Total Bricks is given is 630 Bricks
+// On First Day I completed 245 Bricks
+// On from Second day OnWards Due do some other project involved, We can complete the 2/3 of PreviousDayBricksCOmpleted.
+// How Many days we can complete the total bricks ?
+
 public class Bricks
 {
 	public static void main(String args[])
