@@ -13,8 +13,8 @@ public class IntegerClass {
         Integer m3=Integer.valueOf("A7", 16);
         Integer m4=Integer.decode("0xA7");
         
-        //System.out.println(m2.equals(m1));
-        //System.out.println(m2.equals(m3));
+        //System.out.println(m2.equals(m1));  //True
+        //System.out.println(m2.equals(m3));   //True
         //System.out.println(m3);
         
         //System.out.println(Integer.parseInt("123"));

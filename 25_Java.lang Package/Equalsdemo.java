@@ -7,7 +7,8 @@ public class Equalsdemo
     {
         this.name = name;
         this.roll = roll;    
-    }    
+    }
+	public boolean
     public static void main(String args[])
     {
 	Demo d = new Demo("chandu",10);
